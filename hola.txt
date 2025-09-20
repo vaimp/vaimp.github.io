@@ -1,3 +1,0 @@
-# Begin Muse Generated redirects
-# End Muse Generated redirects
-DirectoryIndex index.html
